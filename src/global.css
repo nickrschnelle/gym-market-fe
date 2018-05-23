@@ -1,0 +1,11 @@
+html {
+  --accent: #CCDFCB;
+  --primary: #FF6A5C;
+  --secondary: #056571;
+  --contrast: #414141;
+}
+
+#root {
+  display: flex; 
+  justify-content: center;
+}
